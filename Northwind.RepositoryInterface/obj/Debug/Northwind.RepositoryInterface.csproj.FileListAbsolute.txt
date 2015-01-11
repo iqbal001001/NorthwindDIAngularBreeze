@@ -16,3 +16,14 @@ C:\Users\Aimen\Documents\Visual Studio 2013\Projects\NorthwindDIAngularBreeze\No
 C:\Users\Aimen\Documents\Visual Studio 2013\Projects\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Aimen\Documents\Visual Studio 2013\Projects\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Aimen\Documents\Visual Studio 2013\Projects\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\obj\Debug\Northwind.RepositoryInterface.csprojResolveAssemblyReference.cache
+C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\Northwind.RepositoryInterface.dll.config
+C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\Northwind.RepositoryInterface.dll
+C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\Northwind.RepositoryInterface.pdb
+C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\Breeze.ContextProvider.dll
+C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\Northwind.Domain.dll
+C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\Northwind.Domain.pdb
+C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\obj\Debug\Northwind.RepositoryInterface.csprojResolveAssemblyReference.cache
+C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\obj\Debug\Northwind.RepositoryInterface.dll
+C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\obj\Debug\Northwind.RepositoryInterface.pdb
