@@ -3,7 +3,7 @@ using System.Linq;
 using System.Web.Http;
 using Breeze.ContextProvider;
 using Newtonsoft.Json.Linq;
-using Breeze.ContextProvider.EF6;
+//using Breeze.ContextProvider.EF6;
 using Breeze.WebApi2;
 using Northwind.RepositoryInterface;
 using Northwind.Domain;

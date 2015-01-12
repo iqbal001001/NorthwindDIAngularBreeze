@@ -92,7 +92,6 @@ C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\Breeze.ContextProvider.EF6.dll
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\Breeze.WebApi2.dll
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\EntityFramework.dll
-C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\EntityFramework.SqlServer.dll
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\Microsoft.Data.Edm.dll
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\Microsoft.Data.OData.dll
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\Microsoft.Practices.ServiceLocation.dll
@@ -120,7 +119,6 @@ C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\Northwind.Domain.pdb
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\Northwind.RepositoryInterface.pdb
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\EntityFramework.xml
-C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\EntityFramework.SqlServer.xml
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\Microsoft.Data.Edm.xml
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\Microsoft.Data.OData.xml
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.WebApiBreeze\bin\Microsoft.Practices.ServiceLocation.pdb
