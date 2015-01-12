@@ -26,3 +26,4 @@ C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.Domain\bin\Debug\
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.Domain\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.Domain\obj\Debug\Northwind.Domain.dll
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.Domain\obj\Debug\Northwind.Domain.pdb
+C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.Domain\obj\Debug\Northwind.Domain.csprojResolveAssemblyReference.cache
