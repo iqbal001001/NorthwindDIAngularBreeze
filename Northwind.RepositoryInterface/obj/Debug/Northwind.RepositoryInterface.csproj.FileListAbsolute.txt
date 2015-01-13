@@ -27,8 +27,3 @@ C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterfa
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\obj\Debug\Northwind.RepositoryInterface.csprojResolveAssemblyReference.cache
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\obj\Debug\Northwind.RepositoryInterface.dll
 C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\obj\Debug\Northwind.RepositoryInterface.pdb
-C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\Breeze.ContextProvider.EF6.dll
-C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\EntityFramework.dll
-C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\EntityFramework.xml
-C:\Users\Aimen\Source\Repos\NorthwindDIAngularBreeze\Northwind.RepositoryInterface\bin\Debug\EntityFramework.SqlServer.xml
